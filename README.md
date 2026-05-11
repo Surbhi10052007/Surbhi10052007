@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Surbhi 👋
 
-<!--
-**Surbhi10052007/Surbhi10052007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) student at Chitkara University  
+💻 Passionate about Python, Web Development & Open Source  
+🚀 GSSoC'26 Contributor  
+🌱 Currently learning AI/ML and building real-world projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
