@@ -1,6 +1,6 @@
 # Hi, I'm Surbhi 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surbhi10052007&show_icons=true&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=Surbhi10052007&label=Profile+Views&color=ff69b4&style=flat" />
 </p>
 <h3 align="center">✨ Open Source Contributor | AIML Student | Future AI Engineer ✨</h3>
 🎓 B.Tech CSE (AI/ML) student at Chitkara University  
