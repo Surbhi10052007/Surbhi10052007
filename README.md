@@ -17,9 +17,8 @@
 - Git & GitHub
 
 - ## 🌐 Connect With Me
-- LinkedIn
-- GitHub
-
+- GitHub: [Surbhi10052007](https://github.com/Surbhi10052007)
+- LinkedIn: [Surbhi Khosla](https://www.linkedin.com/in/surbhi-khosla-97220a381)
 ## 🚀 Current Focus
 - Open Source
 - AI/ML
