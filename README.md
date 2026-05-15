@@ -1,8 +1,5 @@
 # Hi, I'm Surbhi 👋
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=22&center=true&vCenter=true&width=500&lines=AIML+Student;Open+Source+Contributor;Python+Developer;GSSoC'26+Contributor" />
-</p>
-
+<h3 align="center">✨ Open Source Contributor | AIML Student | Future AI Engineer ✨</h3>
 🎓 B.Tech CSE (AI/ML) student at Chitkara University  
 💻 Passionate about Python, Web Development & Open Source  
 🚀 GSSoC'26 Contributor  
