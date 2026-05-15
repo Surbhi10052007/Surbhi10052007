@@ -1,7 +1,7 @@
 # Hi, I'm Surbhi 👋
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surbhi10052007&label=Profile+Views&color=ff69b4&style=flat" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%96-green?style=for-the-badge)
 <h3 align="center">✨ Open Source Contributor | AIML Student | Future AI Engineer ✨</h3>
 🎓 B.Tech CSE (AI/ML) student at Chitkara University  
 💻 Passionate about Python, Web Development & Open Source  
